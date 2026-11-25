@@ -403,11 +403,14 @@ window.App = {
         <button class="tab-btn" id="tabBtn_anim" onclick="App.switchLessonTab('anim')">
           🎬 2. Minh họa Quá trình
         </button>
+        <button class="tab-btn" id="tabBtn_diagrams" onclick="App.switchLessonTab('diagrams')">
+          🖼️ 3. Hình &amp; Sơ đồ SGK
+        </button>
         <button class="tab-btn" id="tabBtn_sim" onclick="App.switchLessonTab('sim')">
-          🔬 3. Mô phỏng Tương tác
+          🔬 4. Mô phỏng Tương tác
         </button>
         <button class="tab-btn" id="tabBtn_quiz" onclick="App.switchLessonTab('quiz')">
-          📝 4. Trắc nghiệm (${lesson.questions.length} câu)
+          📝 5. Trắc nghiệm (${lesson.questions.length} câu)
         </button>
       </div>
 
@@ -421,7 +424,12 @@ window.App = {
         <div id="procAnimContainer"></div>
       </section>
 
-      <!-- PHẦN 3: MÔ PHỎNG TƯƠNG TÁC TRỰC QUAN -->
+      <!-- PHẦN 3: HÌNH ẢNH & SƠ ĐỒ SÁCH GIÁO KHOA CÓ CHÚ THÍCH TIẾNG VIỆT -->
+      <section id="sec_diagrams" class="tab-pane active" style="margin-top:24px;">
+        <div id="textbookDiagramsContainer"></div>
+      </section>
+
+      <!-- PHẦN 4: MÔ PHỎNG TƯƠNG TÁC TRỰC QUAN -->
       <section id="sec_sim" class="tab-pane active" style="margin-top:24px;">
         <div class="sim-box">
           <div class="sim-header">
@@ -472,6 +480,11 @@ window.App = {
       window.ProcessAnimations.render(lesson.id, document.getElementById("procAnimContainer"));
     }
 
+    // Render textbook figure & schema atlas
+    if (window.TextbookDiagrams) {
+      window.TextbookDiagrams.render(lesson.id, document.getElementById("textbookDiagramsContainer"));
+    }
+
     // Render interactive simulator
     Simulators.render(lesson.simId, document.getElementById("simContainer"));
 
@@ -488,11 +501,12 @@ window.App = {
   },
 
   switchLessonTab(mode) {
-    ["all", "theory", "anim", "sim", "quiz"].forEach((t) => {
+    ["all", "theory", "anim", "diagrams", "sim", "quiz"].forEach((t) => {
       document.getElementById("tabBtn_" + t)?.classList.toggle("active", t === mode);
     });
     document.getElementById("sec_theory")?.classList.toggle("active", mode === "all" || mode === "theory");
     document.getElementById("sec_anim")?.classList.toggle("active", mode === "all" || mode === "anim");
+    document.getElementById("sec_diagrams")?.classList.toggle("active", mode === "all" || mode === "diagrams");
     document.getElementById("sec_sim")?.classList.toggle("active", mode === "all" || mode === "sim");
     document.getElementById("sec_quiz")?.classList.toggle("active", mode === "all" || mode === "quiz");
   },

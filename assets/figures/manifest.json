@@ -1,0 +1,191 @@
+{
+  "fig_rbc_osmosis": {
+    "file": "assets/figures/fig_rbc_osmosis.png",
+    "commons_title": "File:Osmotic pressure on blood cells diagram.svg",
+    "license": "Public domain",
+    "bytes": 176459,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AOsmotic_pressure_on_blood_cells_diagram.svg"
+  },
+  "fig_hemoglobin": {
+    "file": "assets/figures/fig_hemoglobin.jpg",
+    "commons_title": "File:1904 Hemoglobin.jpg",
+    "license": "CC BY 3.0",
+    "bytes": 65163,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A1904_Hemoglobin.jpg"
+  },
+  "fig_abo_blood": {
+    "file": "assets/figures/fig_abo_blood.png",
+    "commons_title": "File:ABO blood type.svg",
+    "license": "Public domain",
+    "bytes": 108290,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AABO_blood_type.svg"
+  },
+  "fig_coagulation": {
+    "file": "assets/figures/fig_coagulation.png",
+    "commons_title": "File:Coagulation Cascade Diagram.svg",
+    "license": "CC BY-SA 3.0",
+    "bytes": 173423,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACoagulation_Cascade_Diagram.svg"
+  },
+  "fig_cardiac_conduction": {
+    "file": "assets/figures/fig_cardiac_conduction.jpg",
+    "commons_title": "File:Conduction System of the Heart Unlabeled.jpg",
+    "license": "CC BY-SA 3.0",
+    "bytes": 120490,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AConduction_System_of_the_Heart_Unlabeled.jpg"
+  },
+  "fig_cardiac_ap": {
+    "file": "assets/figures/fig_cardiac_ap.png",
+    "commons_title": "File:Ventricular myocyte action potential.svg",
+    "license": "CC BY-SA 3.0",
+    "bytes": 12786,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVentricular_myocyte_action_potential.svg"
+  },
+  "fig_einthoven": {
+    "file": "assets/figures/fig_einthoven.jpg",
+    "commons_title": "File:Einthoven triangle and cardiac vector.JPG",
+    "license": "CC BY-SA 3.0",
+    "bytes": 12451,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEinthoven_triangle_and_cardiac_vector.JPG"
+  },
+  "fig_ecg_waves": {
+    "file": "assets/figures/fig_ecg_waves.png",
+    "commons_title": "File:SinusRhythmLabels.svg",
+    "license": "Public domain",
+    "bytes": 64231,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASinusRhythmLabels.svg"
+  },
+  "fig_wiggers": {
+    "file": "assets/figures/fig_wiggers.png",
+    "commons_title": "File:Wiggers Diagram.svg",
+    "license": "CC BY-SA 2.5",
+    "bytes": 125143,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWiggers_Diagram.svg"
+  },
+  "fig_pv_loop": {
+    "file": "assets/figures/fig_pv_loop.png",
+    "commons_title": "File:Cardiac cycle (pressure volume loop).svg",
+    "license": "CC BY-SA 3.0",
+    "bytes": 72875,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACardiac_cycle_%28pressure_volume_loop%29.svg"
+  },
+  "fig_baroreceptor": {
+    "file": "assets/figures/fig_baroreceptor.png",
+    "commons_title": "File:Baroreceptor reflex pathway.png",
+    "license": "CC BY-SA 4.0",
+    "bytes": 86647,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABaroreceptor_reflex_pathway.png"
+  },
+  "fig_lung_volumes": {
+    "file": "assets/figures/fig_lung_volumes.jpg",
+    "commons_title": "File:LungVolume.jpg",
+    "license": "Public domain",
+    "bytes": 128701,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALungVolume.jpg"
+  },
+  "fig_spirometry": {
+    "file": "assets/figures/fig_spirometry.png",
+    "commons_title": "File:Spirometry.svg",
+    "license": "CC BY-SA 4.0",
+    "bytes": 23990,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASpirometry.svg"
+  },
+  "fig_alveolus": {
+    "file": "assets/figures/fig_alveolus.png",
+    "commons_title": "File:Alveolus diagram.svg",
+    "license": "Public domain",
+    "bytes": 196465,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAlveolus_diagram.svg"
+  },
+  "fig_hb_o2": {
+    "file": "assets/figures/fig_hb_o2.png",
+    "commons_title": "File:Oxyhaemoglobin dissociation curve.svg",
+    "license": "Public domain",
+    "bytes": 116107,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AOxyhaemoglobin_dissociation_curve.svg"
+  },
+  "fig_nephron": {
+    "file": "assets/figures/fig_nephron.png",
+    "commons_title": "File:Kidney Nephron.png",
+    "license": "CC BY 3.0",
+    "bytes": 558188,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKidney_Nephron.png"
+  },
+  "fig_filtration_barrier": {
+    "file": "assets/figures/fig_filtration_barrier.png",
+    "commons_title": "File:Filtration barrier.svg",
+    "license": "CC BY-SA 3.0",
+    "bytes": 141234,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFiltration_barrier.svg"
+  },
+  "fig_countercurrent": {
+    "file": "assets/figures/fig_countercurrent.png",
+    "commons_title": "File:Hypertonic urine2.svg",
+    "license": "CC BY-SA 3.0",
+    "bytes": 135765,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHypertonic_urine2.svg"
+  },
+  "fig_raas": {
+    "file": "assets/figures/fig_raas.png",
+    "commons_title": "File:Renin-angiotensin-aldosterone system.svg",
+    "license": "CC BY-SA 4.0",
+    "bytes": 153289,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ARenin-angiotensin-aldosterone_system.svg"
+  },
+  "fig_stomach": {
+    "file": "assets/figures/fig_stomach.jpg",
+    "commons_title": "File:Illu stomach2.jpg",
+    "license": "Public domain",
+    "bytes": 30883,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AIllu_stomach2.jpg"
+  },
+  "fig_villus": {
+    "file": "assets/figures/fig_villus.png",
+    "commons_title": "File:Intestinal Villus (NIH BioArt 573).svg",
+    "license": "CC BY 4.0",
+    "bytes": 927800,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AIntestinal_Villus_%28NIH_BioArt_573%29.svg"
+  },
+  "fig_pituitary": {
+    "file": "assets/figures/fig_pituitary.jpg",
+    "commons_title": "File:Hypothalamus and Pituitary esp.jpg",
+    "license": "CC BY 4.0",
+    "bytes": 70028,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHypothalamus_and_Pituitary_esp.jpg"
+  },
+  "fig_thyroid_synth": {
+    "file": "assets/figures/fig_thyroid_synth.png",
+    "commons_title": "File:Thyroid hormone synthesis.png",
+    "license": "CC0",
+    "bytes": 491940,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThyroid_hormone_synthesis.png"
+  },
+  "fig_glut4": {
+    "file": "assets/figures/fig_glut4.jpg",
+    "commons_title": "File:Insulin glucose metabolism.jpg",
+    "license": "CC BY-SA 3.0",
+    "bytes": 64059,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AInsulin_glucose_metabolism.jpg"
+  },
+  "fig_spinal_tracts": {
+    "file": "assets/figures/fig_spinal_tracts.png",
+    "commons_title": "File:Spinal Cord Cross-Section-Adapted.svg",
+    "license": "CC BY-SA 3.0",
+    "bytes": 158502,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASpinal_Cord_Cross-Section-Adapted.svg"
+  },
+  "fig_stretch_arc": {
+    "file": "assets/figures/fig_stretch_arc.png",
+    "commons_title": "File:Patellar tendon reflex arc.png",
+    "license": "CC BY-SA 4.0",
+    "bytes": 146439,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APatellar_tendon_reflex_arc.png"
+  },
+  "fig_ans_system": {
+    "file": "assets/figures/fig_ans_system.png",
+    "commons_title": "File:The Autonomic Nervous System.png",
+    "license": "CC0",
+    "bytes": 401190,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Autonomic_Nervous_System.png"
+  }
+}
